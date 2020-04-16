@@ -1,16 +1,16 @@
-# Project Name
+# Using Bootstrap
 
-> One paragraph statement about the project.
+> In this project, I’ll get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – [Newsweek](https://newsweek.com).
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This project requests us to build a replica of the news site [Newsweek.com](https://newsweek.com) using the Bootstrap framework.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML 5,
+- CSS 3,
+- Bootstrap
 
 ## Live Demo
 
@@ -19,39 +19,19 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+To get a local copy up and running follow these simple example steps:
+ - Clone the project unto your local machine.
+ - Navigate into _`index.html`_ file and run on the browser.
 
 
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@meltrust](https://github.com/meltrust)
+- Linkedin: [meltrust](https://www.linkedin.com/in/meltrust/)
+- Contact me: original.mtapia@outlook.com
 
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
