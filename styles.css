@@ -1,0 +1,34 @@
+header {
+  background-color: #f72210;
+}
+
+.article-text {
+  font-size: 0.857rem !important;
+}
+
+.logo {
+  width: 150px;
+}
+
+.logo svg {
+  width: 100%;
+  fill: white;
+}
+
+.text-red {
+  color: #f72210;
+}
+
+.hamburger-icon {
+  font-size: 25px;
+}
+
+.opinion-articles {
+  font-size: 0.88rem !important;
+}
+
+.thumb-debate {
+  position: relative;
+  top: -3rem;
+  right: -1rem;
+}
