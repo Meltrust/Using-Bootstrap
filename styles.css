@@ -93,6 +93,7 @@ header {
 
 .inthemagazine-date {
   bottom: 0px;
+  left: 0px;
   padding: 8px 15px 9px;
   background-color: rgba(255, 255, 255, 0.9);
 }
@@ -111,4 +112,9 @@ header {
 .third-section-container {
   max-width: 1280px;
   margin-top: 15vh;
+}
+
+.editorspicks-article-footer {
+  font-size: 12.5px;
+  color: #333;
 }
