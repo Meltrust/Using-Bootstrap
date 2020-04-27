@@ -118,3 +118,86 @@ header {
   font-size: 12.5px;
   color: #333;
 }
+
+.editorspicks-article-number {
+  width: 70px;
+  height: 52px;
+  padding-top: 15px;
+  padding-left: 20px;
+  font-size: 20px;
+  background: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png)
+    0 0 no-repeat;
+  background-size: contain;
+}
+
+.background-card {
+  background-color: #e2d2cd;
+  margin: 0 auto;
+}
+
+.subscribe-img {
+  height: 240px;
+  max-width: 259px;
+}
+
+.subscribe-img img:first-child {
+  top: 0;
+  left: 0;
+}
+
+.subscribe-img img:last-child {
+  right: 0;
+  z-index: 2;
+  bottom: 0;
+}
+
+.subscribe-bottom-header {
+  font-size: 20px;
+}
+
+.subscribe-bottom-text {
+  font-size: 15px;
+}
+
+.subscribe-bottom-button {
+  background-color: #f72210;
+  color: #fff;
+  font-size: 18px;
+  line-height: 18px;
+}
+
+.newsletter-bottom-image {
+  height: 289px;
+  object-fit: cover;
+}
+
+.newsletter-bottom-image-container {
+  height: 100%;
+}
+
+.logo-footer {
+  width: 236px;
+}
+
+.footer-border {
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.copyright {
+  font-size: 13px;
+}
+
+ul {
+  list-style: none !important;
+  font-size: 14px !important;
+  color: #666 !important;
+}
+
+.footer-icons-container {
+  font-size: 28px;
+  line-height: 24px;
+}
+
+.fab {
+  font-weight: 400;
+}
