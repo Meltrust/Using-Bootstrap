@@ -2,6 +2,10 @@ header {
   background-color: #f72210;
 }
 
+.main-stories {
+  max-width: 1280px;
+}
+
 .article-text {
   font-size: 0.857rem !important;
 }
@@ -27,8 +31,84 @@ header {
   font-size: 0.88rem !important;
 }
 
-.thumb-debate {
+.opinion-author {
   position: relative;
-  top: -3rem;
-  right: -1rem;
+  top: 20%;
+}
+
+.opinion-headshot {
+  height: 63px;
+  width: 63px;
+  position: relative;
+  left: 0.49rem;
+  bottom: 0.8rem !important;
+}
+
+.debate-thumb {
+  width: 95px;
+  height: 95px;
+}
+
+.debate-headshot {
+  height: 63px;
+  width: 63px;
+  position: relative;
+  top: -1.45rem;
+}
+
+.circle-vs {
+  height: 40px;
+  width: 40px;
+  margin: 14px auto 18px;
+  border-radius: 50%;
+  line-height: 40px;
+  font-size: 14px;
+  color: #fff;
+  background-color: #000;
+}
+
+.newsletter-box {
+  margin: 0 auto 30px;
+  background-color: #e2d2cd;
+  padding: 20px;
+}
+
+.logo-icon {
+  width: 28px;
+  height: 28px;
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain
+    no-repeat #f72210;
+  margin-right: 10px;
+}
+
+.signup-button {
+  background-color: #666;
+  color: white;
+  padding: 10px;
+}
+
+.second-section-container {
+  max-width: 1280px;
+}
+
+.inthemagazine-date {
+  bottom: 0px;
+  padding: 8px 15px 9px;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.inthemagazine-img {
+  object-fit: cover;
+  margin-top: 17.5px;
+  height: 90%;
+}
+
+.inthemagazine-link {
+  line-height: 20px;
+  font-size: 20px;
+}
+
+.third-section-container {
+  max-width: 1280px;
+  margin-top: 15vh;
 }
