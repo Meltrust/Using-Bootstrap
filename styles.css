@@ -2,12 +2,28 @@ header {
   background-color: #f72210;
 }
 
+ul {
+  list-style: none !important;
+  font-size: 14px !important;
+  color: #666 !important;
+  padding-inline-start: 0 !important;
+}
+
 .main-stories {
   max-width: 1280px;
 }
 
 .article-text {
   font-size: 0.857rem !important;
+}
+
+.logo-big {
+  width: 410px;
+  margin-left: 12%;
+}
+
+.logo-big svg {
+  fill: white;
 }
 
 .logo {
@@ -25,6 +41,21 @@ header {
 
 .hamburger-icon {
   font-size: 25px;
+}
+
+.second-nav-list li {
+  font-size: 19px;
+  line-height: 24px;
+  flex-grow: 1;
+}
+
+.search-nav-icon {
+  background: url(https://g.newsweek.com/www/images/icon-search-glass.svg)
+    center/contain no-repeat white;
+  width: 20px;
+  height: 20px;
+  clip: auto;
+  font-size: 0;
 }
 
 .opinion-articles {
@@ -130,6 +161,17 @@ header {
   background-size: contain;
 }
 
+.varied-news-aside-img img {
+  width: 95px;
+  height: 95px;
+  object-fit: cover;
+}
+
+.varied-news-aside-header {
+  font-size: 17px !important;
+  line-height: 21px !important;
+}
+
 .background-card {
   background-color: #e2d2cd;
   margin: 0 auto;
@@ -187,12 +229,6 @@ header {
   font-size: 13px;
 }
 
-ul {
-  list-style: none !important;
-  font-size: 14px !important;
-  color: #666 !important;
-}
-
 .footer-icons-container {
   font-size: 28px;
   line-height: 24px;
@@ -200,4 +236,9 @@ ul {
 
 .fab {
   font-weight: 400;
+}
+
+.fifth-section-container {
+  font-size: 12.5px;
+  max-width: 1280px;
 }
