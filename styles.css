@@ -19,7 +19,7 @@ ul {
 
 .logo-big {
   width: 410px;
-  margin-left: 12%;
+  margin-left: 16%;
 }
 
 .logo-big svg {
@@ -58,6 +58,21 @@ ul {
   height: 20px;
   clip: auto;
   font-size: 0;
+}
+
+.tag-small {
+  bottom: 0;
+  left: 0;
+  color: #272727;
+  font-size: 13px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 20px;
+  background-color: #c2d4d7;
+}
+
+.more-stories-img {
+  width: 95px;
 }
 
 .opinion-articles {
