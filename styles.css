@@ -1,5 +1,7 @@
 header {
   background-color: #f72210;
+  max-width: 1280px;
+  margin: 0 auto;
 }
 
 ul {
@@ -7,6 +9,11 @@ ul {
   font-size: 14px !important;
   color: #666 !important;
   padding-inline-start: 0 !important;
+}
+
+footer {
+  max-width: 1280px;
+  margin: 0 auto;
 }
 
 .main-stories {
@@ -27,7 +34,8 @@ ul {
 }
 
 .logo {
-  width: 150px;
+  width: 132px;
+  height: 30px;
 }
 
 .logo svg {
@@ -35,12 +43,24 @@ ul {
   fill: white;
 }
 
+.nav-right-buttons {
+  font-size: 14px;
+  line-height: 25px;
+  text-align: center;
+}
+
 .text-red {
   color: #f72210;
 }
 
 .hamburger-icon {
-  font-size: 25px;
+  font-size: 26px;
+  text-align: center;
+}
+
+.second-nav {
+  margin: 0 auto !important;
+  max-width: 1280px;
 }
 
 .second-nav-list li {
@@ -203,6 +223,11 @@ ul {
   line-height: 21px !important;
 }
 
+.subscribe-newsletter {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
 .background-card {
   background-color: #e2d2cd;
   margin: 0 auto;
@@ -272,4 +297,33 @@ ul {
 .fifth-section-container {
   font-size: 12.5px;
   max-width: 1280px;
+}
+
+@media screen and (min-width: 481px) {
+  .nav-right-buttons {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  .hamburger-icon {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .nav-right-buttons {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .nav-right-buttons {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+
+  .hamburger-icon {
+    margin-left: 10px !important;
+  }
 }
