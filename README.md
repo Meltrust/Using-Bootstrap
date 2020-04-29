@@ -2,7 +2,7 @@
 
 > In this project, I’ll get a chance to try out Twitter’s Bootstrap framework by building a site that actually uses it – [Newsweek](https://newsweek.com).
 
-![screenshot](./app_screenshot.png)
+![screenshot](app_screenshot.png)
 
 This project requests us to build a replica of the news site [Newsweek.com](https://newsweek.com) using the Bootstrap framework.
 
@@ -14,7 +14,7 @@ This project requests us to build a replica of the news site [Newsweek.com](http
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/Meltrust/Using-Bootstrap/develop/index.html)
 
 
 ## Getting Started
