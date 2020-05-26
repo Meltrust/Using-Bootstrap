@@ -14,7 +14,7 @@ This project requests us to build a replica of the news site [Newsweek.com](http
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/Meltrust/Using-Bootstrap/develop/index.html)
+[Live Demo Link](https://meltrust.github.io/Using-Bootstrap/)
 
 
 ## Getting Started
